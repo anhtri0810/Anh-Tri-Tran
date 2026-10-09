@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day07/code/03_面向对象练习/03_面向对象练习.iml" filepath="$PROJECT_DIR$/day07/code/03_面向对象练习/03_面向对象练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/code/04_类的使用/04_类的使用.iml" filepath="$PROJECT_DIR$/day06/code/04_类的使用/04_类的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Anh-Tri-Tran.iml" filepath="$PROJECT_DIR$/.idea/Anh-Tri-Tran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/Eclipse版本的登录注册/Eclipse版本的登录注册.iml" filepath="$PROJECT_DIR$/day25/code/Eclipse版本的登录注册/Eclipse版本的登录注册.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26/resource/chat_socket_client/chat_socket_client.iml" filepath="$PROJECT_DIR$/day26/resource/chat_socket_client/chat_socket_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26/resource/chat_socket_server/chat_socket_server.iml" filepath="$PROJECT_DIR$/day26/resource/chat_socket_server/chat_socket_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/code/code.iml" filepath="$PROJECT_DIR$/day06/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/code2.iml" filepath="$PROJECT_DIR$/day25/code/code2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/code/code3.iml" filepath="$PROJECT_DIR$/day07/code/code3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/code/code4.iml" filepath="$PROJECT_DIR$/day21/code/code4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/code/day12_Scanner/day12_Scanner.iml" filepath="$PROJECT_DIR$/day12/code/day12_Scanner/day12_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/code/day12_String/day12_String.iml" filepath="$PROJECT_DIR$/day12/code/day12_String/day12_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/code/day13_Array_Arrays/day13_Array_Arrays.iml" filepath="$PROJECT_DIR$/day13/code/day13_Array_Arrays/day13_Array_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/code/day13_Character/day13_Character.iml" filepath="$PROJECT_DIR$/day13/code/day13_Character/day13_Character.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/code/day13_Integer/day13_Integer.iml" filepath="$PROJECT_DIR$/day13/code/day13_Integer/day13_Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/code/day13_StringBuffer/day13_StringBuffer.iml" filepath="$PROJECT_DIR$/day13/code/day13_StringBuffer/day13_StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14/code/day14_BigInteger_BigDecimal/day14_BigInteger_BigDecimal.iml" filepath="$PROJECT_DIR$/day14/code/day14_BigInteger_BigDecimal/day14_BigInteger_BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14/code/day14_Date_DateFormat_Calendar/day14_Date_DateFormat_Calendar.iml" filepath="$PROJECT_DIR$/day14/code/day14_Date_DateFormat_Calendar/day14_Date_DateFormat_Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14/code/day14_Math_Random_System/day14_Math_Random_System.iml" filepath="$PROJECT_DIR$/day14/code/day14_Math_Random_System/day14_Math_Random_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14/code/day14_Regex/day14_Regex.iml" filepath="$PROJECT_DIR$/day14/code/day14_Regex/day14_Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15/code/day15_Collection/day15_Collection.iml" filepath="$PROJECT_DIR$/day15/code/day15_Collection/day15_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15/code/day15_List/day15_List.iml" filepath="$PROJECT_DIR$/day15/code/day15_List/day15_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16/code/day16_ArrayList_Vector_LinkedList/day16_ArrayList_Vector_LinkedList.iml" filepath="$PROJECT_DIR$/day16/code/day16_ArrayList_Vector_LinkedList/day16_ArrayList_Vector_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16/code/day16_Generic/day16_Generic.iml" filepath="$PROJECT_DIR$/day16/code/day16_Generic/day16_Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16/code/day16_JDK5News/day16_JDK5News.iml" filepath="$PROJECT_DIR$/day16/code/day16_JDK5News/day16_JDK5News.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17/code/day17_List_test/day17_List_test.iml" filepath="$PROJECT_DIR$/day17/code/day17_List_test/day17_List_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17/code/day17_Set_HashSet_TreeSet/day17_Set_HashSet_TreeSet.iml" filepath="$PROJECT_DIR$/day17/code/day17_Set_HashSet_TreeSet/day17_Set_HashSet_TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17/code/day17_login_regist/day17_login_regist.iml" filepath="$PROJECT_DIR$/day17/code/day17_login_regist/day17_login_regist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18/code/day18_Collections/day18_Collections.iml" filepath="$PROJECT_DIR$/day18/code/day18_Collections/day18_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18/code/day18_Map_HashMap_TreeMap/day18_Map_HashMap_TreeMap.iml" filepath="$PROJECT_DIR$/day18/code/day18_Map_HashMap_TreeMap/day18_Map_HashMap_TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19/code/day19_Exception/day19_Exception.iml" filepath="$PROJECT_DIR$/day19/code/day19_Exception/day19_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19/code/day19_File/day19_File.iml" filepath="$PROJECT_DIR$/day19/code/day19_File/day19_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20/code/day20_DiGui/day20_DiGui.iml" filepath="$PROJECT_DIR$/day20/code/day20_DiGui/day20_DiGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20/code/day20_IO/day20_IO.iml" filepath="$PROJECT_DIR$/day20/code/day20_IO/day20_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/code/day21_IO/day21_IO.iml" filepath="$PROJECT_DIR$/day21/code/day21_IO/day21_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/code/day21_IOTest/day21_IOTest.iml" filepath="$PROJECT_DIR$/day21/code/day21_IOTest/day21_IOTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/code/day21_login_regist/day21_login_regist.iml" filepath="$PROJECT_DIR$/day21/code/day21_login_regist/day21_login_regist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/day22.iml" filepath="$PROJECT_DIR$/day22/day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23/day23.iml" filepath="$PROJECT_DIR$/day23/day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24/code/day24_Pattern/day24_Pattern.iml" filepath="$PROJECT_DIR$/day24/code/day24_Pattern/day24_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24/code/day24_Thread/day24_Thread.iml" filepath="$PROJECT_DIR$/day24/code/day24_Thread/day24_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/day25_Frame/day25_Frame.iml" filepath="$PROJECT_DIR$/day25/code/day25_Frame/day25_Frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/txz_demo/txz_demo.iml" filepath="$PROJECT_DIR$/day25/code/txz_demo/txz_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/四则运算/四则运算.iml" filepath="$PROJECT_DIR$/day25/code/四则运算/四则运算.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/code/登录注册/登录注册.iml" filepath="$PROJECT_DIR$/day25/code/登录注册/登录注册.iml" />
+    </modules>
+  </component>
+</project>
